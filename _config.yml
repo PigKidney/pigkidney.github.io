@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "kor-KOREA"
 title                    : "Pig_kidney"
-title_separator          : "-"
+title_separator          : " "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yang_gwonmo"
 description              : " "
@@ -124,7 +124,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://pigkidney.github.io"
+      # url: "https://pigkidney.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/violeta_ffotto"
