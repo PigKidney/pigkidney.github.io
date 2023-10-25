@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "kor-KOREA"
 title                    : "Pig_kidney"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Yang_gwonmo"
+name                     : "Yang gwonmo"
 description              : "하나 둘 열심히!"
 url                      : "https://pigkidney.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
